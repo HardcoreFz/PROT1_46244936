@@ -128,6 +128,7 @@ padding: 20px; /* espaciado para la sección de 20 pixeles */
     /*border-radius: 10px; */
     transition: transform 0.3s ease; 
 }
+
 img {  
     display: block; /* Para eliminar el espacio adicional que algunos navegadores agregan a las img. */  
     margin: 0 auto; /*/*Centrar las imgenes horizontalmente */  
@@ -141,3 +142,4 @@ img {
     transform: scale(1.15); 
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
+
