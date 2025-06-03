@@ -4,7 +4,7 @@
     
   <div class="container-fluid">
     <a class="navbar-brand" href="<?php echo base_url('/tramo2')?>">
-        <img src="<?php echo base_url('Assets/img/yorha.png')?>" alt="Logo de nier" width="75" height="50" class="img-fluid">
+        <img src="<?php echo base_url('/tramo2/Assets/img/yorha.png')?>" alt="Logo de nier" width="75" height="50" class="img-fluid">
         <div class="text-center">Home</div>
     </a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
